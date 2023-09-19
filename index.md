@@ -2,4 +2,4 @@
 title: My Homepage 
 ---
 
-Welcome to my homepage! 
+Welcome to my homepage! :) 
