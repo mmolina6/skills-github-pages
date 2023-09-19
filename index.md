@@ -1,5 +1,3 @@
 ---
-title: Welcome to my blog
+title: My Homepage 
 ---
-
-Welcome to my homepage! Enjoy! :) 
